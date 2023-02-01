@@ -8,8 +8,13 @@
 개발 환경 및 라이브러리
 
 구현 언어: corretto jdk 11, HTML, CSS3, JavaScript es5, JQuery 3.6, SQL
+
 사용 기술 : AJAX, JSP
+
 형상 관리 : GitHub, Sourcetree
+
 프레임워크 : Spring Framework 2.7.7 Mybatis 3.4.6
+
 WAS : Tomcat 9.0
+
 사용도구 : STS 3.9.14, DBeaver, Maven
